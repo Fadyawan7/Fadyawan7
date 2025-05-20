@@ -29,7 +29,7 @@ Visit my portfolio for detailed case studies, apps, and open-source contribution
 - Git & GitHub  
 - MVC / Clean Architecture  
 - UI/UX design implementation  
-- GetX for state management  
+- GetX and Cubit for state management  
 
 ## Projects
 
