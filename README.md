@@ -13,7 +13,7 @@ Software Engineer specializing in Flutter application development with a focus o
 
 Visit my portfolio for detailed case studies, apps, and open-source contributions:
 
-**[View Portfolio]([https://your-portfolio-link.com](https://fadyawan7.github.io/fahad-portfolio/))**
+**[View Portfolio](https://fadyawan7.github.io/fahad-portfolio/)**
 
 ## Contact
 
