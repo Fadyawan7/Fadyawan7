@@ -41,3 +41,26 @@ Some of my projects are private due to NDA and client agreements. However, sever
 - **Home Bargadier** – A utility app for home service bookings and management  
 
 Feel free to reach out for access to private repositories or code samples.
+
+
+//.............. Decreasing apk size ////////////////////////
+
+
+🚀 How We Cut Flutter App Size by 40%
+Our Flutter app used to be 58 MB.
+ Now it’s 34 MB — with zero features removed.
+ Here’s what made the biggest difference 
+1️⃣ Removed Debug Symbols
+ flutter build apk --split-debug-info=build/debug-info
+ → -8 MB instantly.
+2️⃣ Optimized Assets
+ Compressed images + deleted unused files.
+ Saved ~12 MB.
+3️⃣ Tree-Shaking & Code Cleanup
+ flutter build apk --release + DevTools → no dead code.
+4️⃣ Import Only What You Need
+ Don’t pull the whole Firebase suite for one function.
+5️⃣ Split by ABI
+ flutter build apk --split-per-abi
+ Smaller, device-specific APKs = faster installs.
+Result: 58 MB → 34 MB.
