@@ -19,7 +19,6 @@ Visit my portfolio for detailed case studies, apps, and open-source contribution
 
 - LinkedIn: [linkedin.com/in/muhammad-fahad-246667257](https://www.linkedin.com/in/muhammad-fahad-246667257/)
 - Email: fahadtech.me@gmail.com  
-- GitHub: [github.com/Fadyawan7](https://github.com/Fadyawan7/)
 
 ## Tech Stack
 
